@@ -44,7 +44,7 @@ GitHub Profile Summary Cards
 [![](https://raw.githubusercontent.com/k-na/k-na/main/profile-summary-card-output/zenburn/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/k-na/k-na/main/profile-summary-card-output/zenburn/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 <!-- スキルアイコン
 -->
-[![My Skills](https://skillicons.dev/icons?i=java,eclipse,git,github,vercel,linux,vim,bash,regex,postgres,mysql,sqlite,windows,visualstudio,vscode,cs,dotnet,nodejs,py,jquery,js,html,css,c&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,eclipse,git,github,vercel,linux,ubuntu,vim,bash,powershell,regex,postgres,mysql,sqlite,windows,visualstudio,vscode,cs,dotnet,nodejs,nextjs,react,npm,py,jquery,js,ts,html,css,c,docker&perline=12)](https://skillicons.dev)
 
 <!-- 横に並べて表示したい場合
 -->
